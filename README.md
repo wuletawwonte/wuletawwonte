@@ -1,5 +1,5 @@
 ### Hello there, I'm Wuletaw Wonte
-#### Full stack developer
+#### Full-stack developer
 
 <h2>👋 About Me</h2>
 
