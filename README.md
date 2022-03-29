@@ -6,7 +6,7 @@
 - I’m interested in developing software applications to solve real-world problems
 - I’m constantly learning and improving on new software tools & technologies
 - A graduate of Computer Science from Addis Ababa University, Ethiopia.
-- My hobbies are playing music instruments specially guitar and listening to soul-touching songs
+- My hobbies are playing musical instruments specially guitar and listening to soul-touching songs
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/wuletaw-wonte/)
 
 <p align="center">&nbsp;
